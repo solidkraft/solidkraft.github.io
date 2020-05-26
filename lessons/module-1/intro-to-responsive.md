@@ -87,9 +87,9 @@ Review the two media queries written below. Predict the result of this code. Be 
 
 Above is an example of the syntax for a media query with a breakpoint set for screens 900px and larger. We also have a breakpoint set for screens 700px and smaller. When the screen size is 900px or greater, the body should have a magenta background. When it is 700px or less, it should have a teal background. When it is in between, it will be the background color specified in CSS or white, if it was not specified.
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="css,result" data-user="turing-school" data-slug-hash="RwwWoqO" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Media Queries Demo">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/RwwWoqO">
-  Media Queries Demo</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="css,result" data-user="solidkraft" data-slug-hash="rNObKWv" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Media Queries Demo">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/rNObKWv">
+  Media Queries Demo</a> by Solid Kraft (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -120,11 +120,11 @@ In more human terms, these say:
 <section class="checks-for-understanding">
 ### Practice
 
-To build on your CSS skills and now practice working with media queries, complete this set of <a href="https://github.com/turingschool-examples/responsive-layout-challenges">Responsive Layout Challenges</a>.
+To build on your CSS skills and now practice working with media queries, complete this set of <a href="https://github.com/solidkraft/responsive-layout-challenges">Responsive Layout Challenges</a>.
 
 Before you start to build out the HTML, familiarize yourself with all required layouts. Map out which boxes need to be grouped in containers in order to satisfy all required layouts. Then, start writing code!
 
-**Challenge/Early Finisher:** Refactor <a href="https://github.com/turingschool-examples/responsive-rescue">this not-very-responsive site</a>.
+**Challenge/Early Finisher:** Refactor <a href="https://github.com/solidkraft/responsive-rescue">this not-very-responsive site</a>.
 </section>
 
 ## Documentation & Resources
