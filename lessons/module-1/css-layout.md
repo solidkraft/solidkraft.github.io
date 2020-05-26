@@ -15,11 +15,7 @@ But first, the road to enlightenment: [CSS Zen Garden](http://www.csszengarden.c
 
 ## Pre-Work
 
-Come prepared to class by reading [CSS Specificity + Combinators](https://frontend.turing.io/lessons/module-1/css-specificity-combinators.html)
-
-## Warm Up
-
-[Instructor Resource](https://docs.google.com/presentation/d/1ZM4pRSnB-pgvXvpCoRjYPt-RmRncYPahvOCibIuS1WU/edit#slide=id.g78e7823268_0_0)
+Come prepared to class by reading [CSS Specificity + Combinators](/lessons/module-1/css-specificity-combinators.html)
 
 ## Display
 
@@ -42,7 +38,7 @@ div {
 
 ## Position
 
-<!-- - We can manipulate this [CodePen](https://codepen.io/turing-school/pen/XWWmNyz) to play around with the following values for our position property. -->
+<!-- - We can manipulate this [CodePen](https://codepen.io/solidkraft/pen/zYvXWbq) to play around with the following values for our position property. -->
 The `position` property in CSS will take elements out of the normal page flow, and should therefore be used sparingly.
 
 - **static**: Every element, by default, has a static position. When `position: static` is applied, the element will stick to the normal page flow.
@@ -56,19 +52,19 @@ The `position` property in CSS will take elements out of the normal page flow, a
 - **fixed**: A fixed positioned element (subcategory of the absolute positioning) is positioned relative to the viewport. It will stick in place despite any scrolling or resizing of the viewport.
 - **sticky**: A sticky element will behave a lot like an absolutely positioned element. But, if the user scrolls beyond the view of the element, the element will be "stuck" and remain in the users view (where an absolutely positioned element will scroll off the page). Many times this is used for headers or footers on a page. There are a couple of great examples in [this blog post](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46).
 
-We can play around in [this CodePen](https://codepen.io/turing-school/pen/XWWGJqz) to build a better understanding of position.
+We can play around in [this CodePen](https://codepen.io/solidkraft/pen/zYvXWbq) to build a better understanding of position.
 
 <section class="call-to-action">
 ### Try It:
 
 Over the course of today's class, we will work to re-create the top part of a Twitter profile. It will _not_ be perfect by the end of class! The goal is just to see how these concepts can be used in real applications, and get some practice. Start with one step at a time:
-  * Fork [this CodePen](https://codepen.io/turing-school/pen/ZEEVpYy?editors=1100) for your starter kit and check out what a Twitter Profile looks like [here](https://twitter.com/TaelurAlexis). Notice that the round profile photo (photo) is layered over the rectangular background photo (header photo).
+  * Fork [this CodePen](https://codepen.io/solidkraft/pen/eYpoMap?editors=1100) for your starter kit and check out what a Twitter Profile looks like [here](https://twitter.com/TaelurAlexis). Notice that the round profile photo (photo) is layered over the rectangular background photo (header photo).
   * With your partner, talk about how you can use `position` to achieve a layout like that. Once we discuss as a class, you will implement a solution.
 </section>
 
 ## Floats
 
-"Floating" an element takes it out of the normal flow, and places it as far to the left or right of its containing element as possible. Any other elements, such as paragraphs or lists, will wrap around the floated element as seen [here](https://codepen.io/LouisaBarrett/pen/GwwKGN).
+"Floating" an element takes it out of the normal flow, and places it as far to the left or right of its containing element as possible. Any other elements, such as paragraphs or lists, will wrap around the floated element as seen [here](https://codepen.io/solidkraft/pen/PoPgRvd).
 
 Always specify a width when floating an element, otherwise the element is likely to take up the whole page and not appear floated.
 
@@ -79,7 +75,7 @@ You can specify a) whether an element is floated or not, and b) which side it ям
 - `inherit`: the element inherits the float direction of its parent.
 - `clear`: Float's sister property. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
 
-We can play around with this [CodePen](https://codepen.io/turing-school/pen/wvvOaNP) to see how float and clear work with one another.
+We can play around with this [CodePen](https://codepen.io/solidkraft/pen/KKdYoLO) to see how float and clear work with one another.
 
 The code snippet below is known as the `clearfix hack`. It prevents the container from collapsing when all of its contents are floated. In order for this specific snippet to work, the class `clearfix` must be applied to the container element in question.
 
@@ -123,4 +119,4 @@ For now, don't worry about the social media icons; focus on the bigger elements 
 
 ## Additional Resources
 
-* [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+* [Turing CSS Style Guide](https://github.com/solidkraft/guides/tree/master/css)
