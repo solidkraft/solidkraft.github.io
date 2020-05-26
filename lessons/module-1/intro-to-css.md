@@ -47,9 +47,9 @@ We can target an HTML element in CSS many ways:
 * via id name
 * via a combination of above
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="GRRpNBa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Rules">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/GRRpNBa">
-  CSS Rules</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="solidkraft" data-slug-hash="wvaprXJ" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Rules">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/wvaprXJ">
+  CSS Rules</a> by Solid Kraft Academy (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -86,7 +86,6 @@ Let's make the following edits on [kodewithklossy.com](https://www.kodewithkloss
 * Change the "Kode With Klossy" logo in the nav bar to have a height of 90px and a width of 320px
 * Hide the element that contains the content under the sub header "In The News"
 
-**Finished Early?** Find the Turing logo in the footer of the site. Inspect it. What HTML element created it? What attributes does it have? In the Styles Pane, toggle off and on various CSS properties to explore the outcome. Now, scroll down in that pane - you'll see a rule that targets: `#comp-jxczctmainlineContent-gridContainer > *`. Do some research to explore what `>` is doing. Lastly, consider this: when you explore elements in larger sites, you'll commonly see very obscure looking class and ID names - if there is such an emphasis on semantics and good naming, why might this be?
 </section>
 
 ## The Box Model
@@ -200,18 +199,18 @@ Every HTML element has a default `display` property - either `inline` or `block`
 
 Block elements start on a new line and take up the entire width of the page, even if the content doesn't take up the entire width of the page. Some elements that default to `display: block` are `p`, `h1` and `section`. Open up this CodePen to see this illustrated:
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="css,result" data-user="turing-school" data-slug-hash="mddeOGg" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Block Elements">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/mddeOGg">
-  Block Elements</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="css,result" data-user="solidkraft" data-slug-hash="ZEGvXMj" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Block Elements">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/ZEGvXMj">
+  Block Elements</a> by Solid Kraft Academy (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 Inline elements only take up the space their content requires, so you may see multiple inline elements sitting next to each other. Some elements that default to `display: inline` are `img`, `a`, `input`, and `em`. Open up this CodePen to see this illustrated:
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="QWWjGZN" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Inline Elements">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/QWWjGZN">
-  Inline Elements</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="solidkraft" data-slug-hash="GRJyMYq" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Inline Elements">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/GRJyMYq">
+  Inline Elements</a> by Solid Kraft Academy (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -232,5 +231,5 @@ We will go into much more detail on how to use the different display properties 
 
 ## Additional Resources
 
-* [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+* [SolidKraft CSS Style Guide](https://github.com/solidkraft/guides/tree/master/css)
 * [Visual Guide to CSS](http://cssreference.io/)
