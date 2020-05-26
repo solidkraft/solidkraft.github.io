@@ -75,7 +75,7 @@ When we use Flexbox, we will make the parent elements `flex containers` and the 
 
 <div class="call-to-action">
   <h3>Explore Flexbox</h3>
-  <p>Fork <a href="https://codepen.io/ameseee/pen/PrQObO">this</a> CodePen to your account. One-by-one, uncomment lines 3, 4, 12, 13, and 14. Take note of what impact each "uncomment" has. Identify the containers and items each time Flexbox is used. After you make predictions about what each declaration does, read up on them on <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks</a>. Do <strong>not</strong> read about every single thing on the page; use <code>cmd + f</code> to search for specific properties!</p>
+  <p>Fork <a href="https://codepen.io/solidkraft/pen/VwvNdWo">this</a> CodePen to your account. One-by-one, uncomment lines 3, 4, 12, 13, and 14. Take note of what impact each "uncomment" has. Identify the containers and items each time Flexbox is used. After you make predictions about what each declaration does, read up on them on <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks</a>. Do <strong>not</strong> read about every single thing on the page; use <code>cmd + f</code> to search for specific properties!</p>
 </div>
 
 **NOTE:** Many of the examples used in this document contain a set of colored boxes. However, you won't find the styles for those boxes in the CSS. They are loaded in the CSS Pen settings, thanks to whoever made [this](https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-340/flexbox-playground.css)!
@@ -84,9 +84,9 @@ When we use Flexbox, we will make the parent elements `flex containers` and the 
 
 Without Flexbox, 10 colorful `article`s might look like this:
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="jOObVJM" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Normal Blocks Els">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/jOObVJM">
-  Flexbox: Normal Blocks Els</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="solidkraft" data-slug-hash="NWGmzvp" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Normal Blocks Els">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/NWGmzvp">
+  Flexbox: Normal Blocks Els</a> by Solid Kraft (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -94,9 +94,9 @@ Without Flexbox, 10 colorful `article`s might look like this:
 
 But with Flexbox, we can start having some control over them:
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="eYYpBXG" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Creating a Container">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/eYYpBXG">
-  Flexbox: Creating a Container</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="solidkraft" data-slug-hash="XWmQYaP" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Creating a Container">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/XWmQYaP">
+  Flexbox: Creating a Container</a> by Solid Kraft (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -117,9 +117,9 @@ Another CSS property with Flexbox is `direction`. This property takes one of fou
 
 We frequently see white space (margin or padding) used, and the content is **centered** on the screen. We can use Flexbox to center content:
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="xxxwRBz" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Justify Content">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/xxxwRBz">
-  Flexbox: Justify Content</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="solidkraft" data-slug-hash="GRpLGMo" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Justify Content">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/GRpLGMo">
+  Flexbox: Justify Content</a> by Solid Kraft (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -147,9 +147,9 @@ In the section above, you should have observed that `justify-content: center;` h
 
 Just like we can control how our content sits on the main axis with `justify-content`, we have a tool to control how our content sits _on the cross-axis_. Check out the CodePen below.
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="bGGVBJE" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Align-Items">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/bGGVBJE">
-  Flexbox: Align-Items</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="solidkraft" data-slug-hash="wvKZXrg" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox: Align-Items">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/wvKZXrg">
+  Flexbox: Align-Items</a> by Solid Kraft (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
