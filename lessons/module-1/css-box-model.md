@@ -19,15 +19,15 @@ tags: css, box model
 ## Getting started
 
 In HTML, all elements are considered boxes. In CSS, we use the box model to
-determine the size of our content, and to create space around 
-elements with padding, borders, and margin. Try adjusting the sliders 
-below to see how changing the values of each of these properties will 
+determine the size of our content, and to create space around
+elements with padding, borders, and margin. Try adjusting the sliders
+below to see how changing the values of each of these properties will
 effect the look of the 'box'. Note: The 'width' of the content in this case is
 dynamic, and will take up the available space.
 
-<p class="codepen" data-height="630" data-theme-id="light" data-default-tab="html,result" data-user="wvmitchell" data-slug-hash="ExjOKLB" style="height: 630px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="The Box Model">
-  <span>See the Pen <a href="https://codepen.io/wvmitchell/pen/ExjOKLB">
-  The Box Model</a> by Will Mitchell (<a href="https://codepen.io/wvmitchell">@wvmitchell</a>)
+<p class="codepen" data-height="630" data-theme-id="light" data-default-tab="html,result" data-user="wvmitchell" data-slug-hash="OJyGEXM" style="height: 630px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="The Box Model">
+  <span>See the Pen <a href="https://codepen.io/solidkraft/pen/OJyGEXM">
+  The Box Model</a> by Solid Kraft (<a href="https://codepen.io/solidkraft">@solidkraft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
