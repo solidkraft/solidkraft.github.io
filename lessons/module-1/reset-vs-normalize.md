@@ -19,7 +19,7 @@ There are two approaches used to reconstruct our styles: **resetting** the defau
 
 Both of these techniques aim to accomplish the same thing -- getting the default styles out of our way as we work -- but they go about doing that in slightly different ways.
 
-Check out this [CodePen example](http://codepen.io/nategreen/pen/MwxRvP?editors=110) to see the difference between reset and normalize in action.
+Check out this [CodePen example](https://codepen.io/solidkraft/pen/pojBKwd?editors=110) to see the difference between reset and normalize in action.
 
 #### Reset
 
