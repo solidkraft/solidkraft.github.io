@@ -24,7 +24,7 @@ Throughout the project, one of our focuses will be on providing a fluid and resp
 - Complete a DTR
 - Create a slack channel for all team members and your Project Manager.
 - Fork [the boilerplate
-  repository](https://github.com/turingschool-examples/ideabox-boilerplate). Add all team members and your Project Manager as collaborators.
+  repository](https://github.com/solidkraft/ideabox-boilerplate). Add all team members and your Project Manager as collaborators.
 - Deploy your application to GitHub Pages.
 - In the team channel, drop the repo link and GitHub pages link.
 
@@ -236,7 +236,7 @@ As a user,
 * **2:** Every team member (on a team of 3) authors between 20%-45% of the commits. More than a few commits are formatted incorrectly. The README is formatted well but may be lacking in detail.
 * **1:** Commit and PR history does not tell a story of the application OR a README has not been created/has minimal information.
 
-### JavaScript - Style and Implementation
+<!-- ### JavaScript - Style and Implementation
 
 * **4:**
   * All loops are refactored into the proper array prototype iteration methods
@@ -251,4 +251,4 @@ As a user,
   * There are no global variables aside from query selectors and an array for your to-dos
   * Uses event delegation correctly on dynamic elements for deleting, checking tasks off, and marking a to-do urgent
 * **2:** Application correctly implements data model for the `Idea` class including all required methods
-* **1:** Crafts JS according to the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+* **1:** Crafts JS according to the JS Style Guide -->
