@@ -165,6 +165,5 @@ If you finish early, try writing tackling [these functions](https://www.teaching
 
 ### Additional Resources & Practice
 
-* [JS Style Guide](https://github.com/turingschool-examples/javascript)
-* [JavaScript Playground](http://frontend.turing.io/lessons/module-1/javascript-playground.html) let's you experiment more with these concepts.
-
+* [JS Style Guide](https://github.com/solidkraft/javascript/tree/master/es5)
+* [JavaScript Playground](/lessons/module-1/javascript-playground.html) lets you experiment more with these concepts.

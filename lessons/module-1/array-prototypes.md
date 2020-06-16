@@ -31,7 +31,7 @@ For the array above,
 
 ### Debrief
 
-Sometimes we need to access information about an array or certain elements in our array. Methods we use to do that are called **accessor** methods. They do not mutate or change the original array - they just give us information, or copies of parts of the array. 
+Sometimes we need to access information about an array or certain elements in our array. Methods we use to do that are called **accessor** methods. They do not mutate or change the original array - they just give us information, or copies of parts of the array.
 
 In other cases, we will want to change the data our array holds. **Mutator** methods actually mutate, or change, the data in the array. If we needed to remove a student element from the `students` array, we'd need to use a mutator method.
 
@@ -40,8 +40,6 @@ In other cases, we will want to change the data our array holds. **Mutator** met
 Throughout most of this lesson, you'll be working in small groups to explore both
 - some array prototypes
 - different ways to learn new technical concepts, and which you like best
-
-[Instructor resource](https://docs.google.com/document/d/1_X1vhIFuiSM752l25sBntxVPrTWBV50ZZ3wy_kXQ10A/edit)
 
 ### The methods to research
 

@@ -19,14 +19,6 @@ In this lesson we'll cover:
 - `Bracket Notation` How we access individual elements of an array. Either to
   express the element, or assign a new element.
 
-## Warm Up
-
-Each person should have one post-it note available at your table.
-- If you have pink, write the name of a pet, as a string. Do not assign it to a variable.
-- If you have yellow, write the age of a pet, as a number. Do not assign it to a variable.
-
-[Instructor Resource](https://github.com/turingschool/front-end-keys/blob/master/module-1/lesson-plans/array-loops.md)
-
 ## Arrays
 
 An array is a complex data type. Instead of storing just one value, it stores an ordered list of values. Each value is referred to as an `element`. You should consider using an array whenever you are working with a collection of values, or values that are related to one another.
@@ -106,6 +98,6 @@ listOfNames;
 
 ### Dig Deeper
 
-* [JS Style Guide](https://github.com/turingschool-examples/javascript)
+* [JS Style Guide](https://github.com/solidkraft/javascript/tree/master/es5)
 * [Seven JS Quirks I Wish I'd Known About](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#expdec)  
 * [Adequately Good JS](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)  

@@ -19,14 +19,6 @@ tags: js, introduction, object literals, dot notation
 - `Method` A function on an object
 - `Dot Notation` Notation to access a value on an object, explicitly specifies the key
 
-<section class="call-to-action">
-## Warm Up
-Fill in the blanks on the worksheet at your table, nice a BIG, CLEAR handwriting!
-
-We are pretending that we are making an order at a coffee shop.
-<p><a href="https://docs.google.com/document/d/1KxGBgK_1RPjaxlkbXxHqmFn3TabvAkfGzDdqV1aT-eM/edit">Instructor Resource</a></p>
-</section>
-
 ## Objects
 
 Objects are a type of collection, or complex data type in JavaScript. We can think of objects as a representation of real world things in computer programming.

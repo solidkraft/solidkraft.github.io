@@ -126,7 +126,7 @@ Eventually, we'll be writing our own tests, but for now so we can see how the
 process works a bit, and to get some practice reading error messages, we'll
 start with some prewritten tests.
 
-Head over to [this repository](https://github.com/turingschool-examples/first-unit-tests)
+Head over to [this repository](https://github.com/solidkraft/first-unit-tests)
 and follow the instructions in the README to get some practice implementing
 functions based on test conditions.
 
@@ -238,7 +238,7 @@ By adding `require('./tweet')` to our test file, we are importing that function 
 
 Enough talk about testing. Let's actually write some tests to see this in action! We'll do some together and then you'll do some on your own.
 
-Check out [this repository](https://github.com/turingschool-examples/intro-js-testing) to get your hands dirty.
+Check out [this repository](https://github.com/solidkraft/intro-js-testing) to get your hands dirty.
 </section>
 
 ## The Testing Process

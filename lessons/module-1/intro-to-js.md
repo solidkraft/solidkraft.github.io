@@ -27,20 +27,20 @@ In this lesson we'll cover:
 - `Operator` Symbols that are used to assign, compare, and perform operations
 - `Statement` A single piece of code that accomplishes one task
 - `Expression` A statement that represents a value
-- `Evaluate/Evaluation` 
+- `Evaluate/Evaluation`
 - `Conditional` An expression that evaluates to true or false, or a control flow statement that executes code
 
 ## Warm Up
 
 Wanted to start with a quick message about a common mistake people make:
 
-Java and JavaScript are COMPLETELY and UTTERLY unrelated. 
+Java and JavaScript are COMPLETELY and UTTERLY unrelated.
 
 ### History of JavaScript
 
 Way back in the early days of the web, Brendan Eich created JavaScript. Legend has it that he wrote it in 10 days in 1995 while was was working as an engineer at Netscape. The language was first released with Netscape 2 in 1996. The name 'JavaScript' was a oh-so-clever marketing push to try to pick up on the momentum of Sun Microsystem's popular language Java, but instead it lead to years of confusion about the names of these two mostly unrelated programming languages. If you'd like to learn more about where JS came from, take a look [here](http://speakingjs.com/es5/ch04.html).
 
-If you wanna shorten JavaScript, do so by saying/writing "JS" - not "Java". 
+If you wanna shorten JavaScript, do so by saying/writing "JS" - not "Java".
 
 Think of it like this: **Java is to JavaScript, as Ham is to Hamster.**
 
@@ -55,7 +55,7 @@ JavaScript was created to make the web more dynamic. It is an object-oriented sc
 
 JavaScript can be _client-side_ and _server-side_, meaning that it can be used to control user-facing interfaces (e.g. browsers) as well as handle the server-side extensions that connect with a database.
 
-It's a highly versatile and flexible language, favoring configuration over convention. This means that, when you're working in JavaScript, there are TONS of different ways to accomplish the same task. Sometimes one is better than another, but often there's not One Right Way to do something. JavaScript has become the most commonly used language of the web! 
+It's a highly versatile and flexible language, favoring configuration over convention. This means that, when you're working in JavaScript, there are TONS of different ways to accomplish the same task. Sometimes one is better than another, but often there's not One Right Way to do something. JavaScript has become the most commonly used language of the web!
 
 Now that we know a little bit about JavaScript, let's talk about how to actually use it!
 
@@ -135,7 +135,7 @@ Then, **call** each variable by typing out its name, then hitting `return`. What
 
 ### Variables: Assigning Values
 
-Notice when we first create a variable, its value is _undefined_ because it doesn't have a value yet. This is because we have to set a value! Remember - the little box of memory is empty. 
+Notice when we first create a variable, its value is _undefined_ because it doesn't have a value yet. This is because we have to set a value! Remember - the little box of memory is empty.
 
 Let's learn how to add a value. Create a `bestInstagram` variable and assign a value to it all at once:
 
@@ -266,7 +266,7 @@ Think about the following sentences:
 - "It's raining a lot!"
 - "It's raining cats and dogs!"
 
-Both of these sentences are statements! They declare something. But one of them is an _expression_ - it means something other than what the letters actually spell out. "It's raining cats and dogs" ACTUALLY _means_ "It's raining a lot". 
+Both of these sentences are statements! They declare something. But one of them is an _expression_ - it means something other than what the letters actually spell out. "It's raining cats and dogs" ACTUALLY _means_ "It's raining a lot".
 
 Similarly, consider the following code statements:
 
@@ -376,5 +376,5 @@ We've worked through a lot of content - some of which may be new, some is review
 
 ### Additional Resources & Practice
 
-* [JS Style Guide](https://github.com/turingschool-examples/javascript)
-* [JavaScript Playground](http://frontend.turing.io/lessons/module-1/javascript-playground.html) lets you experiment more with these concepts.
+* [JS Style Guide](https://github.com/solidkraft/javascript/tree/master/es5)
+* [JavaScript Playground](/lessons/module-1/javascript-playground.html) lets you experiment more with these concepts.

@@ -193,10 +193,10 @@ We can see that this condition will never return `false` and we'll be stuck in t
 ### Additional Practice  
 
 * [Leveled Array Practice](array-practice.html)
-* [JavaScript Playground](http://frontend.turing.io/lessons/module-1/javascript-playground.html) lets you experiment more with these concepts.
+* [JavaScript Playground](/lessons/module-1/javascript-playground.html) lets you experiment more with these concepts.
 
 ### Dig Deeper  
 
-* [JS Style Guide](https://github.com/turingschool-examples/javascript)
+* [JS Style Guide](https://github.com/solidkraft/javascript/tree/master/es5)
 * [Seven JS Quirks I Wish I'd Known About](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#expdec)  
 * [Adequately Good JS](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)  
