@@ -21,7 +21,7 @@ tags: javascript, dom, browser, research, documentation, docs
 
 ## Warm Up
 
-On your own, in your notebook, create something like a family tree. You can use your family, your close friends, your social media contacts, your pets, whatever. 
+On your own, in your notebook, create something like a family tree. You can use your family, your close friends, your social media contacts, your pets, whatever.
 
 Construct a web/tree/diagram of people or things and their relationships to each other.
 
@@ -48,7 +48,7 @@ With a partner, share your diagram.
 
 ## Taking a Closer Look at the DOM
 
-We've [already learned](https://frontend.turing.io/lessons/module-1/dom-manipulation-1-rewrite.html) that the DOM (the Document Object Model) is a representation of the HTML file, and that it is an interface that allows us to interact with the HTML file and browser using JavaScript.
+We've already learned that the DOM (the Document Object Model) is a representation of the HTML file, and that it is an interface that allows us to interact with the HTML file and browser using JavaScript.
 
 We've looked at the `document` object in the browser console. We've dug into individual elements using `querySelector`, and discovered that each element in the DOM has properties such as `classList`, `innerText`, and `innerHTML`, and some have more, like `src`, and `value`.
 
@@ -64,7 +64,7 @@ Picture a tree. Just a regular tree. Maybe deciduous. Let's say an oak.
 
 Every tree starts with a trunk, and that trunk splits into branches which split into branches which split into branches, on and on and on until you get to the outermost edge of each branch: a leaf.
 
-Every leaf belongs to a branch, which belongs to a branch, which belongs to a branch .... all the way back until you get back to the single, original trunk. 
+Every leaf belongs to a branch, which belongs to a branch, which belongs to a branch .... all the way back until you get back to the single, original trunk.
 
 Even if the tree has two or more trunks, eventually, they all meet back at one point where they are a single plant.
 
@@ -137,7 +137,7 @@ If there is a line between two nodes, then the nodes can access information abou
 <section class="call-to-action">
 ### Try It Out
 
-In the browser console, create a variable `firstSection` whose value is the first `section` element (hint: use `document.querySelector`). 
+In the browser console, create a variable `firstSection` whose value is the first `section` element (hint: use `document.querySelector`).
 
 Then, inspect the children of that element! `firstSection.childNodes`
 
