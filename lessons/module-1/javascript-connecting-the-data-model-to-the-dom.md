@@ -60,7 +60,7 @@ our model.
 <div class="call-to-action">
 ## Try it in a group
 
-Taking a look at [this codepen](https://codepen.io/wvmitchell/pen/eYNaYpG)
+Taking a look at [this codepen](https://codepen.io/solidkraft/pen/JjXRMjy)
 you'll find the Data Model from above, as well as some HTML and CSS. Take 15
 minutes, read through all the existing code, then try adding a `render` method,
 which will create one displayed fruit for every fruit in the Data Model.
@@ -108,7 +108,7 @@ to add something to our code, it better be updating our Data Model.
 <div class="call-to-action">
 ## Back to the group
 
-Continuing to work in the same codepen, create a function with three arguments: 
+Continuing to work in the same codepen, create a function with three arguments:
 name, img, and rotten. This function should be able to add a new object to the
 Data Model. Once you've finished, call your function with 3 arguments of your
 choice. Does your Data Model update? What about what the user sees?
