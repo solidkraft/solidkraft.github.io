@@ -205,7 +205,7 @@ Data Model, we re-render the model to see the change.
 ## In Summary
 
 This pattern of using a Data Model as a source of truth is extremely common in
-professional JavaScript programming. You'll see it again later at Turing. As you
+professional JavaScript programming. You'll see it again later at SolidKraft Academy. As you
 work on your current project, remember to ask yourself 'What is my Data Model',
 and 'How do my user interactions affect my Data Model'. If you can get the hang
 of this concept, you'll be set up for future success.
