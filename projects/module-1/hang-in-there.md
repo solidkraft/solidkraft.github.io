@@ -18,7 +18,7 @@ Sometimes you need a pick me up. Remember those motivational posters that were a
 
 To begin, choose one partner to do the following:
 
-1. Fork the repository found here: [https://github.com/turingschool-examples/hang-in-there-boilerplate/](https://github.com/turingschool-examples/hang-in-there-boilerplate/).
+1. Fork the repository found here: [https://github.com/solidkraft/hang-in-there-boilerplate](https://github.com/solidkraft/hang-in-there-boilerplate).
 2. Clone down your new, forked repo
 3. `cd` into the repository
 4. Open it in your text editor
@@ -35,13 +35,11 @@ Then, as a team:
 By the end of the day, complete the following tasks:
 
 * As a team, read the entire project spec and rubric
-* As a team, create a public document for your DTR (instructions can be found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md))
 * Add all teammates and your assigned instructor as collaborators to your forked repository
-* Create a private Slack channel with all members of the project and your assigned instructor and share links to:
+* Create a private Discord channel with all members of the project and your assigned instructor and share links to:
   - the forked GitHub repo
   - the GitHub Pages deployed site
     - Under your repo's settings, scroll down to GitHub Pages and set it up to deploy your master branch
-  - the DTR
 
 ## Progression
 
@@ -118,24 +116,24 @@ To earn a given score, an application must meet the requirements listed in that 
 
 ### Professionalism
 
-* **4:** 
+* **4:**
   - Team uses a PR template
   - Team habitually conducts thorough code reviews in the GitHub GUI to document the progress of the application
   - Team has sought out code reviews from one or more mentors
   - README is well formatted and descriptive with screenshots or gifs of the application in action
-* **3:** 
+* **3:**
   - Commits are atomic and frequent, effectively documenting the evolution/progression of the application
   - Commit messages are consistent, descriptive, and concise
   - Team uses PRs to screen/verify code before adding it to the master branch
   - There is no more than a 10% disparity in code contributions between teammates
   - README is well formatted and gives good context about the project, including links to both contributors' GitHub profiles, and to the deployed GitHub Pages site
-* **2:** 
+* **2:**
   - Commits are large and do not effectively communicate the progression of the application
   - Team uses PRs but do not review code before merging into the master branch
   - All teammates can speak to the purpose and functionality of any/every line of code
   - There is a 20% disparity in code contributions between teammates
   - README is brief and does not provide context for the project
-* **1:** 
+* **1:**
   - Teammates do not understand the purpose and functionality of every line of code
   - Some commits are pushed directly to the master branch
   - PRs are used inconsistently
@@ -144,22 +142,22 @@ To earn a given score, an application must meet the requirements listed in that 
 
 ### JavaScript Style & Implementation
 
-* **4:** 
+* **4:**
   - There are no global variables aside from query selectors, `currentPoster`, `images`, `titles`, `quotes`, and `savedPosters`.
   - All functions strictly adhere to [SRP](http://knnthvu.weebly.com/srp-and-dry.html) and - with few exceptions - are around 10 lines of code or less
   - All functions and variables are semantically and concisely named
   - Uses logical operators instead of if/else statements where applicable
   - Code contains no antipatterns
-* **3:** 
+* **3:**
   - Application uses event delegation correctly on dynamic elements
   - Functions are [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and observe [SRP](http://knnthvu.weebly.com/srp-and-dry.html)
   - Functions make use of parameters and arguments in order to be more dynamic
-* **2:** 
+* **2:**
   - Properly uses parameters and arguments when used
   - Uses named functions instead of anonymous functions as event handlers in event listeners
   - Correctly uses if/else statements to handle multiple paths of logic & error handling
-* **1:** 
-  - Crafts JS according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+* **1:**
+  - Crafts JS according to the [SolidKraft Academy style guide](https://github.com/solidkraft/javascript/tree/master/es5)
 
 
 ### Functional Expectations
