@@ -216,7 +216,7 @@ To earn a given score, an application must meet the requirements listed in that 
   * Application uses if/else statements to handle multiple paths of logic/error handling
   * Application fails to fully separate data-model and presentational logic (DOM) - example: there is DOM logic in the `Activity` class
 * **1:** 
-  * Crafts JS according to the [SolidKraft JS style guide](https://github.com/solidkraft/guides/tree/master/javascript/es5)
+  * Crafts JS according to the [SolidKraft JS style guide](https://github.com/solidkraft/javascript/tree/master/es5)
 * **0:**
   * JS is not formatted properly
 
