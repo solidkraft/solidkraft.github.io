@@ -25,7 +25,6 @@ Create a new directory called `intention-timer`. It should contain:
 - `main.js`
 - `assets` (this is a directory that will hold your icon files)
 
-Make sure both teammates and your assigned instructor are all added as collaborators on the GitHub repository.
 
 ## Progression
 
@@ -129,7 +128,7 @@ Before moving on to an extension, the site should match the comp and any additio
 
 ### Icons
 
-Active (color-coded) and non-active (white) icons are all stored [here](https://drive.google.com/drive/folders/1EpDeH6IeDTOaK3fP9YR_XkaB4mwCWZxm?usp=sharing). You will need to download and save these in an `assets` directory in your project.
+Active (color-coded) and non-active (white) icons are all stored [here](https://drive.google.com/drive/folders/1f30w4xNrw_9jL8rhYGlDu4iuZ5FJqZH3?usp=sharing). You will need to download and save these in an `assets` directory in your project.
 
 ### Fonts
 
@@ -164,13 +163,13 @@ To earn a given score, an application must meet the requirements listed in that 
 * **2:** 
   - Application implements most major comp details accurately and correctly on desktop (colors, fonts, icons, spacing, alignment,  etc.).
 * **1:** 
-  - Crafts markup according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
+  - Crafts markup according to the [SolidKraft CSS style guide](https://github.com/solidkraft/css)
 
 ### HTML - Style and Implementation
 
 * **4:** 
   - Application fully implements HTML that is accessible for folks with visual disabilities. 
-  - Reference [this lesson plan](http://frontend.turing.io/lessons/floating/aria-accessibility.html)
+  - Reference [this lesson plan](http://academy.solidkraft.com/lessons/floating/aria-accessibility.html)
 * **3:** 
   - Application has markup that is easy to read and follows across naming conventions
   - Application minimizes extraneous elements
@@ -178,7 +177,7 @@ To earn a given score, an application must meet the requirements listed in that 
   - Application adds to the above with HTML that incorporates semantic HTML elements whenever possible
   - Application has a simple, clean HTML structure
 * **1:** 
-  - Crafts markup according to the [Turing HTML style guide](https://github.com/turingschool-examples/html)
+  - Crafts markup according to the [Turing HTML style guide](https://github.com/solidkraft/html)
 * **0:**
   - HTML is not formatted properly
 
@@ -193,7 +192,7 @@ To earn a given score, an application must meet the requirements listed in that 
   - Application adds organizational conventions for the whole stylesheet
   - Application has 5 or fewer media queries for responsiveness
 * **1:** 
-  - Crafts CSS according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
+  - Crafts CSS according to the [Turing CSS style guide](https://github.com/solidkraft/css)
 * **0:**
   - CSS is not formatted properly
   - Application is not responsive
@@ -217,7 +216,7 @@ To earn a given score, an application must meet the requirements listed in that 
   * Application uses if/else statements to handle multiple paths of logic/error handling
   * Application fails to fully separate data-model and presentational logic (DOM) - example: there is DOM logic in the `Activity` class
 * **1:** 
-  * Crafts JS according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+  * Crafts JS according to the [Turing JS style guide](https://github.com/solidkraft/javascript/tree/master/es5)
 * **0:**
   * JS is not formatted properly
 
