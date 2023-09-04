@@ -28,13 +28,13 @@ We want to give YOU a chance to dig into the code and explore before we all get 
 
 
 
-**Spend one hour working through [this repl](https://replit.com/@danpariente/DataTypesandVariables#index.js)**. As you're working, write down the following things in your notes:
+**Spend one hour working through [this repl](https://replit.com/@danpariente/DataTypesandVariables#index.js){:target="_blank"}**. As you're working, write down the following things in your notes:
 * Ah-ha moments/Key Points (for example: `A boolean is always a true or false value.`)
 * Questions (for example: `Do you ever use null or undefined on purpose?`)
 
 If you get stuck...
 * Reference [this Intro to Data Types & Variables lesson](https://exeed-media.github.io/mod0/front-end/data_types)
-* Reference [javascript MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview).  Use the search bar and Command+F to search for specific terms and concepts
+* Reference [javascript MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview){:target="_blank"}.  Use the search bar and Command+F to search for specific terms and concepts
 * Google (for example: `null vs undefined javascript`)
 * Write down your question/what exactly you're stuck on and move on.
 
@@ -142,7 +142,7 @@ JavaScript recognizes a few different types of variables: `var`, `let`, and `con
 
 In mod 1, you'll mostly see `var`. It's the ES5 (ECMAScript 5) version of a variable. It's still used in production code to this day, but newer versions of JavaScript gave us `let` and `const`.
 
-As you move through the program, you'll work with `let` and `const` more and more. Our recommendation is to just stick with `var` for now.  However, if you'd like to use `let` and `const` - go right ahead. Just make sure to [do your research first.](https://codeburst.io/difference-between-var-let-and-const-in-javascript-fbce2fba7b4)
+As you move through the program, you'll work with `let` and `const` more and more. Our recommendation is to just stick with `var` for now.  However, if you'd like to use `let` and `const` - go right ahead. Just make sure to [do your research first.](https://codeburst.io/difference-between-var-let-and-const-in-javascript-fbce2fba7b4){:target="_blank"}
 
 </section>
 
