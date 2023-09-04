@@ -115,7 +115,7 @@ var name = "Sofia";
 var age = 30;
 var location = "Monaco";
 
-var interpolatedString = `My friend ${name} is ${age} years old and lives in ${Denver}.`
+var interpolatedString = `My friend ${name} is ${age} years old and lives in ${location}.`
 ```
 
 </section>
