@@ -305,4 +305,4 @@ We've worked through a lot of content - some of which may be new, some is review
 ### Additional Resources & Practice
 
 * [JS Style Guide](https://github.com/solidkraft/javascript/tree/master/es5){:target="_blank"}
-* [JavaScript Playground](https://github.com/solidkraft/solidkraft.github.io/blob/master/lessons/module-1/javascript-playground.html){:target="_blank"} let's you experiment more with these concepts.
+* [JavaScript Playground](https://academy.solidkraft.com/lessons/module-1/javascript-playground.html){:target="_blank"} let's you experiment more with these concepts.
