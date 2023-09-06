@@ -226,7 +226,7 @@ if (condition_1) {
 
 It can get a little cumbersome to write if/else statements in the web browser's console. There is a website called JS Bin that lets you write multiple lines of JavaScript and test it in the console.
 
-Click here to use [JS Bin with JavaScript and the console](https://jsbin.com/?js,console).
+Click here to use [JS Bin with JavaScript and the console](https://jsbin.com/?js,console){:target="_blank"}.
 
 ```js
 // What will happen with this conditional?
@@ -309,10 +309,10 @@ console.log(result);
 
 ## Additional Practice and Resources
 
-When you search for JavaScript questions, you will often find a link to W3Schools. This site is...meh. It's really not the most organized or thorough resource. A clearer and more thoughtful source of documentation is called MDN (Mozilla Developer Network). [Here is MDN's JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+When you search for JavaScript questions, you will often find a link to W3Schools. This site is...meh. It's really not the most organized or thorough resource. A clearer and more thoughtful source of documentation is called MDN (Mozilla Developer Network). [Here is MDN's JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}.
 
 Practice, practice, practice! Repetition, repetition, repetition!
 
-* If you want more of a challenging problem that deals with conditionals, try to solve [SuperFizzBuzz](https://github.com/solidkraft/challenges/blob/620f4a12ab4e3c1a3f258bb4347e0c2c569a934d/super_fizz.markdown), but don't worry about the extensions.
-* [JavaScript Exercisms](http://exercism.io/languages/javascript)
-* Exercises at the end of each chapter in [Eloquent JavaScript](http://eloquentjavascript.net/)
+* If you want more of a challenging problem that deals with conditionals, try to solve [SuperFizzBuzz](https://github.com/solidkraft/challenges/blob/620f4a12ab4e3c1a3f258bb4347e0c2c569a934d/super_fizz.markdown){:target="_blank"}, but don't worry about the extensions.
+* [JavaScript Exercisms](http://exercism.io/languages/javascript){:target="_blank"}
+* Exercises at the end of each chapter in [Eloquent JavaScript](http://eloquentjavascript.net/){:target="_blank"}
