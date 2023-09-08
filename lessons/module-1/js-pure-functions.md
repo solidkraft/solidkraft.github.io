@@ -100,7 +100,7 @@ Not all functions are going to be pure.  Functions that must mutate data outside
 Let's look at a few more examples.  In breakout groups, you will look at the next 3 exercises and determine if the function is pure or impure.  If the function is impure, pseudocode it out so that the function is pure!
 
 <section class="call-to-action">
-### In Breakout Rooms
+### By separate
 
 Answer the following questions for the next 3 exercises:
 1. Is the function pure?  Why or why not?
