@@ -33,7 +33,7 @@ We want to give YOU a chance to dig into the code and explore before we all get 
 * Questions (for example: `Can you ever have an object inside of another object?`)
 
 If you get stuck...
-* Reference [this Intro to Objects lesson](https://academy.solidkraft.com/lessons/module-1/intro-to-objects.html)
+* Reference [this Intro to Objects lesson](https://academy.solidkraft.com/lessons/module-1/object-literals.html)
 * Reference [javascript objects documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics){:target="_blank"}.  Use the search bar and Command+F to search for specific terms and concepts
 * Google (for example: `invoke object method javascript`)
 * Write down your question/what exactly you're stuck on and move on. Then ask that question when we get on the call!
