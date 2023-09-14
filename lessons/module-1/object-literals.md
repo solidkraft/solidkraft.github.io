@@ -231,9 +231,4 @@ Let's add a method to our order object.
 **Then:** Turn to your neighbor and explain the above object-related questions to each other. Practice makes perfect, so make sure you both get to explain!
 </section>
 
-<section class="call-to-action">
-### Final Practice: Access and Update
-
-Start by forking [this repl.it](https://repl.it/@ameseee/Partner-Practice). Complete each exercise listed in the comments below the provided object literal. Write the code with a given direction directly below it, and **do not delete code as you go**.
-</section>
 <br>
