@@ -26,7 +26,7 @@ problem.
 
 ## Setup
 
-  - Fork [this project](https://github.com/solidkraft/js_library) to your own Github account
+  - Fork [this project](https://github.com/solidkraft/js_library){:target="_blank"} to your own Github account
   - clone the repository to your local machine
   - `cd` into the project
   - run `npm install` to install the necessary dependencies
