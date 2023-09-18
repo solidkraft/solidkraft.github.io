@@ -18,14 +18,15 @@ problem.
 
 ## Learning goals
 
-  - Understand what JavaScript primatives are, and how/when to use them
+  - Understand JavaScript data types and how/when to use them
   - Understand how to declare variables and assign data to them
-  - Practice using objects
-  - Practice using arrays
+  - Practice using objects and arrays, including `for loops`
+  - Write functions that require conditional logic, parameters/arguments, and `return`
+  - Read and understand unit tests, and pass them
 
 ## Setup
 
-  - Fork [this project](https://github.com/solidkraft/js-fun-at-the-library) to your own Github account
+  - Fork [this project](https://github.com/solidkraft/js_library) to your own Github account
   - clone the repository to your local machine
   - `cd` into the project
   - run `npm install` to install the necessary dependencies
@@ -47,14 +48,16 @@ problem.
     - Run `npm test test/book-test.js`  
     - Read the error messages CAREFULLY!  
     - Make the test pass.
+  - Ensure that all of the skips are removed from the test file when you push up to GitHub.
   - Before moving on to the next iteration, take time to refactor your
     solutions. Is this the best approach to solving the problem? Is there a
-    different way you could make the tests pass?  
+    different way you could make the tests pass? 
 
 ### 2: Complete the shelf tests
 
   - Unskip the first test in `test/shelf-test.js`, and get to work passing the tests
   - Run `npm test test/shelf-test.js`  
+  - Ensure that all of the skips are removed from the test file when you push up to GitHub.
   - Before moving on to the next iteration, take time to refactor your
     solutions. Is this the best approach to solving the problem? Is there a
     different way you could make the tests pass?  
@@ -63,14 +66,15 @@ problem.
 
   - Unskip the first test in `test/library-test.js`, and get to work passing the tests
   - Run `npm test test/library-test.js`  
+  - Ensure that all of the skips are removed from the test file when you push up to GitHub.
   - Before moving on to the next iteration, take time to refactor your
     solutions. Is this the best approach to solving the problem? Is there a
-    different way you could make the tests pass?  
+    different way you could make the tests pass? 
 
-### Extension (not part of the project, just stuff to do if you get to it): Complete the Librarian tests
-  - Unskip the first test in `test/librarian-test.js`, and get to work passing the tests
-  - Run `npm test test/librarian-test.js`  
-  - This test involves using a class. It will require self-teaching in order to complete.
+### Extension: Refactoring
+  - Revisit your `addBook` and `checkoutBook` functions.  Consider any similar lines of code and how you might refactor both functions to make use of bracket notation. 
+  - Refactor `takeStock` so that it dynamically checks to see if the book exists in the correct shelf.  Note you will need to make use of bracket notation in this solution as well.  
+  - Ensure that all tests still pass after refactors have been made.
 
 ## Self-Assessment
 
@@ -87,9 +91,6 @@ The skills you will develop over the course of this project are:
     - testing
 - Problem solving:
     - Pseudocoding
-    - Pairing (with mentors, rocks, peers, etc)
-    - Articulating code (while pairing, or rubber-ducking)
+    - Articulating code (while reviewing, or rubber-ducking)
 - Time management
 - Git workflow
-
-At the end of the project, we will go over work together in small groups, and we will have you fill out a reflection survey where you can assess your growth over the course of the project.
